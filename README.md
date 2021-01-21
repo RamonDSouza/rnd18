@@ -5,7 +5,7 @@
 
 Coisas que gosto de fazer:
 
-🖥 Aplicativos da Web
+🖥 Aplicativos da Web <br>
 🎨 Interfaces
 📱 Aplicativos
 
