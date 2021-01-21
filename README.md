@@ -19,5 +19,5 @@ Sobre mim: <br>
 
 
 ## Algumas informações: <br>
-## Link do Linkedin: https://www.linkedin.com/in/ramon-duarte-91b77a15a/<br>
+📫 Linkedin: https://www.linkedin.com/in/ramon-duarte-91b77a15a/<br>
 ## Vamos nos conectar? 👋
