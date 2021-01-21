@@ -12,10 +12,15 @@ Coisas que gosto de fazer:
 Sobre mim: 
 
 🔭 Atualmente estou a procura do primeiro emprego.
+
 🌱 Atualmente estou aprendendo JavaScript, ReactJS, React Native e NodeJS.
+
 ✊🏽 Tento colaborar em projetos de impacto social.
+
 💡 Tento ajudar as pessoas que estão começando na programação.
+
 💬 Pergunte-me sobre qualquer coisa, mas saiba que sou apaixonado por tecnologia.
+
 ⚡ Curiosidade: sou muito dedicado no que faço, amo futebol, apaixonado por seriados, animes e busco sempre trabalhar para enfrentar todos os desafios que tenho pela minha frente.
 
 
